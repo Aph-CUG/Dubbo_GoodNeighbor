@@ -1,0 +1,12 @@
+server:
+  port: 8089
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        server-addr: 192.168.254.1:8848
+  profiles:
+    active: dev

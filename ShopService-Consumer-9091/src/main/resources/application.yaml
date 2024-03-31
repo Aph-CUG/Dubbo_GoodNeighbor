@@ -1,0 +1,19 @@
+server:
+  port: 9091
+spring:
+  application:
+    name: consumer_application_9091
+dubbo:
+  application:
+    name: consumer_application_9091
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    id: nacos-registry
+    address: nacos://192.168.254.1:8848
+  config-center:
+    address: nacos://192.168.254.1:8848
+  metadata-report:
+    address: nacos://192.168.254.1:8848
+

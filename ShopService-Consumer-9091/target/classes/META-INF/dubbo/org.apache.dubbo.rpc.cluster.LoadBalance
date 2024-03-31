@@ -1,0 +1,6 @@
+MyLB=com.an.config.MyLoadBalance
+RDLB=org.apache.dubbo.rpc.cluster.loadbalance.RandomLoadBalance
+RRLB=org.apache.dubbo.rpc.cluster.loadbalance.RoundRobinLoadBalance
+LALB=org.apache.dubbo.rpc.cluster.loadbalance.LeastActiveLoadBalance
+CHLB=org.apache.dubbo.rpc.cluster.loadbalance.ConsistentHashLoadBalance
+SRLB=org.apache.dubbo.rpc.cluster.loadbalance.ShortestResponseLoadBalance

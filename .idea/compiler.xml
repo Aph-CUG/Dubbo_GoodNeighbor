@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sckillService-Provider-8087" />
+        <module name="ShopService-Consumer-9091" />
+        <module name="UserService-provider" />
+        <module name="ShopService-Provider-8081" />
+        <module name="ShopService" />
+        <module name="SearchService" />
+        <module name="ShopService-Provider-8082" />
+        <module name="CommonService" />
+        <module name="sckillService-interfaces-8087" />
+        <module name="GoodNeighbor-API" />
+        <module name="filterService-gateway" />
+        <module name="BlogService-Provider" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

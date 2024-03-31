@@ -1,0 +1,15 @@
+#spring:
+#  cloud:
+#    nacos:
+#      discovery:  #nacos的地址，不写默认就是127.0.0.1:88848
+#        server-addr: 192.168.254.1:8848
+#        username: nacos
+#        password: nacos
+#      config:
+#        server-addr: 192.168.254.1:8848
+#        file-extension: yaml  #重点：文件格式就是在nacos中创建的配置文件是什么格式，要统一
+#        namespace: 3d9e6522-8cc0-43d5-b922-e41bc7772aa1	# 命名空间的ID，我这里是自定义的，也可以自动生成，后面有讲解
+#        group: DEFAULT_GROUP  #默认组别，用于区分同一个namespace下的同名配置文件
+#        prefix: provider01  #文件前缀，不写默认是 spring.application.name
+#  profiles:
+#    active: test

@@ -1,0 +1,29 @@
+#server:
+#  port: 8089
+#mybatis-plus:
+#  mapper-locations: classpath:mapper/*.xml
+#spring:
+#  application:
+#    name: provider_application_8082
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://192.168.254.1:3306/test?useSSL=true&characterEncoding=utf-8&serverTimeZone=Asia/Shanghai&useUnicode=true
+#    username: root
+#    password: 200671
+#dubbo:
+#  application:
+#    name: provider_application_8082
+#  protocol:
+#    name: dubbo
+#    port: -1
+#  provider:
+#    loadbalance: RRLB
+#  registry:
+#    id: nacos-registry
+#    address: nacos://192.168.254.1:8848
+#  config-center:
+#    address: nacos://192.168.254.1:8848
+#  metadata-report:
+#    address: nacos://192.168.254.1:8848
+#
+#

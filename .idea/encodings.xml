@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BlogService-Provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BlogService-Provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GoodNeighbor-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GoodNeighbor-API/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SearchService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SearchService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService-Consumer-9091/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService-Consumer-9091/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService-Provider-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService-Provider-8081/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService-Provider-8082/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService-Provider-8082/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filterService-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filterService-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sckillService-Provider-8087/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sckillService-Provider-8087/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sckillService-interfaces-8087/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sckillService-interfaces-8087/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
